@@ -1,0 +1,13 @@
+<suite name="RickAvina - AA Demo Test-suite">
+    <test name="Quick smokeTest">
+        <classes>
+           <class name="tests.homepage.TC01_LogoAndHomePageTitleValidation"></class>
+           <class name="tests.homepage.TC02_ThreeMainTabsValidation"></class>
+           <class name="tests.homepage.TC03_IngreseButtonValidation"></class>
+           <class name="tests.homepage.TC04_LanguageSelectorValidation"></class>
+           <class name="tests.Testchrome"></class>
+           <class name="tests.TestWebDriverManager"></class>
+        </classes>
+    </test>
+
+</suite>
