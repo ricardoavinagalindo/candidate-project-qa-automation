@@ -33,20 +33,4 @@ public class TestProperties {
         langSelectCty = props.getProperty("langSelectCty");
         langSelectLang = props.getProperty("langSelectLang");
     }
-/*
-    public static String getURL () {
-        return url;
-        }
-    public static String getBrowser () {
-        return browser;
-        }
-    public static String getPageTitle () {
-        return pageTitle;
-    }
-    public static String getLangSelectorCty () {
-        return langSelectorCty;
-    }
-    public static String getLangSelectorLang () {
-        return langSelectorLang;
-    }*/
 }
